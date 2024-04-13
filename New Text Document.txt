@@ -1,0 +1,43 @@
+
+#### MOST IMPORTANT TO RUN PROJECT #############
+FRPM GEEKYSHOWS DJANGO VIDEO
+Virtual Environment Name = myecp.
+Kadhi Pan Project Open Karanr Ter Virtual Env Madhun Project Run Karava Lagnar Nehmi.
+Tyasathi Ha Command CMD Madhe Run Kar:-
+   workon myecp
+
+Mag :- python manage.py runserver
+
+
+USER LOGIN INFO :
+username = Virat & Password = Viratkohli
+username = Chetan & Password = Sameer1234
+
+
+
+BOTTOMWEAR section at 1.40.00 hour la bagh.
+mobile section starting at 1.49.00
+important note at 1.50.45
+
+productdetailview explain kela aahe at 1.55.00
+
+productdetail.html madhe images database kadun kase fetch karatat te 2.00.00 sangitlay
+
+# Mobile la filter karnar mahnje [mobile.html] and electronics madhe jaun mobile ver click kelyaver jo template disel tyabadal at 2.03.10
+
+
+Class Based Function Main Phela Function Get Function Use Karte Kyounki Jo Kuch Bhi Get hoaga us pe kam karenge.
+
+# Login badal 2.50.00.
+# Changepassword 3.03.00
+# Passwordchangedone 3.11.00
+# Forget Password 3.16.30
+Auth_views madhun aplyala kahi form builtin bhetat mahnje tya form che views create nahi karav lagat.
+# Profile 3:45:00
+# Cart 4:13:00
+
+4:36:26 la sangitlay ki iamge url database kadun kashi fetch krto te.
+4:39:00 la explain kelay sagla cart badal code kasa work kartay te.
+
+4:54:00 cart product (+,-) incresing & decreasing particular product in cart.
+
